@@ -1,0 +1,36 @@
+body{
+   text-align:center;
+}
+ header a{
+  background-color: blueviolet;
+  color:white ;
+  font-size: 100 px;
+}
+
+header img{
+  height: 100px;
+  width: 200px;
+  
+}
+
+.icon{
+  width:300px;
+  height:350px ;
+  
+text-align:center;
+}
+
+.mama{
+  background-color: blueviolet;
+  text-align:center;
+  font-size: 25px;
+  border-radius: 5px;
+}
+
+.dad{
+  background-color: blueviolet;
+  text-align:center;
+  font-size: 25px;
+  border-radius: 5px;
+  color: gold;
+}
